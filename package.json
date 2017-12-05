@@ -1,0 +1,30 @@
+{
+  "name": "discord-profiler",
+  "version": "1.0.0",
+  "description": "A simple script that allows users to set a custom rich presence status",
+  "main": "main.js",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunarSkies/discord-profiler.git"
+  },
+  "keywords": [
+    "Discord",
+    "profile",
+    "rpc",
+    "node",
+    "social"
+  ],
+  "author": "LunarSkies",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LunarSkies/discord-profiler/issues"
+  },
+  "homepage": "https://github.com/LunarSkies/discord-profiler#readme"
+}
