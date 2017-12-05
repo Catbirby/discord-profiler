@@ -21,7 +21,9 @@ async function setActivity() {
 }
 
 rpc.on('ready', () => {
-  setActivity();
+	setInterval(() => {
+		setActivity();
+	}, 15e3);
   console.log("ready");
 });
 
