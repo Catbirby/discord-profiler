@@ -1,6 +1,6 @@
 {
   "name": "discord-profiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple script that allows users to set a custom rich presence status",
   "main": "main.js",
   "dependencies": {
@@ -21,7 +21,7 @@
     "node",
     "social"
   ],
-  "author": "LunarSkies",
+  "author": "Catbirby",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/LunarSkies/discord-profiler/issues"

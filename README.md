@@ -21,7 +21,5 @@ _The social media I use isn't showing up_
 >Feel free to open an issue on this repository and I will get to adding it as soon as possible
 
 _Do I have to keep the window open?_
->Short answer: Yes
-
->Long answer: No, as an alternative you could use [pm2](http://pm2.keymetrics.io/) to keep the script alive in the background. If this becomes a common concern I will make a pm2 file specifically for the script
+>No, I made a pm2 script. all you have ot do is run `npm i -g pm2` and then within the folder you downloaded the bot from run `pm2 start .\ecosystem.config.js` When you want to kill the process run the command `pm2 stop discord-profiler`
 
